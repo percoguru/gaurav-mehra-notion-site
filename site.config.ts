@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Software Engineer',
 
   // social usernames (optional)
-  twitter: 'guru280',
+  twitter: 'mehra_gaurav_',
   github: 'percoguru',
-  linkedin: 'gaurav-mehra',
+  linkedin: 'gaurav-mehra20',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
